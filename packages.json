@@ -1,0 +1,98 @@
+[
+  {
+    "package": "broom.helpers",
+    "oncran": true
+  },
+  {
+    "package": "ggstats",
+    "oncran": true
+  },
+  {
+    "package": "labelled",
+    "oncran": true
+  },
+  {
+    "package": "prevR",
+    "oncran": true
+  }
+  {
+    "package": "gtsummary",
+    "oncran": true,
+    "releasetag": true
+  },
+  {
+    "package": "bstfun",
+    "releasetag": true
+  },
+  {
+    "package": "hotfun",
+    "releasetag": true
+  },
+  {
+    "package": "dcurves",
+    "oncran": true,
+    "releasetag": true
+  },
+  {
+    "package": "ghe.utils",
+    "releasetag": true
+  },
+  {
+    "package": "broom.helpers",
+    "oncran": true,
+    "releasetag": true
+  },
+  {
+    "package": "rstudio.prefs",
+    "oncran": true,
+    "releasetag": true
+  },
+  {
+    "package": "starter",
+    "oncran": true,
+    "releasetag": true
+  },
+  {
+    "package": "tidycmprsk",
+    "oncran": true,
+    "releasetag": true
+  },
+  {
+    "package": "gt.doc.images",
+    "releasetag": true
+  },
+  {
+    "package": "sjofun"
+  },
+  {
+    "package": "updater",
+    "oncran": true,
+    "releasetag": true
+  },
+  {
+    "package": "ggsurvfit",
+    "oncran": true,
+    "releasetag": true
+  },
+  {
+    "package": "crc"
+  },
+  {
+    "package": "visR",
+    "oncran": true,
+    "releasetag": true
+  },
+  {
+        "package": "curl",
+        "url": "https://github.com/jeroen/curl"
+   },
+   {
+        "package": "pdftools",
+        "url": "https://github.com/ropensci/pdftools"
+   },
+   {
+        "package": "stringdist",
+        "url": "https://github.com/markvanderloo/stringdist",
+        "subdir": "pkg"
+   }
+]
